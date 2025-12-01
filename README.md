@@ -11,4 +11,4 @@ Student Info
 
 * Student Name: Pham Minh Hieu
 * Student ID: 23BI14166
-* Student Group ID: Not-for-now
+* Student Group ID: 6
