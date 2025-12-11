@@ -1,0 +1,5 @@
+/home/kali/a.txt
+/home/kali/Documents/ds2026/WordCount/wordcount.cpp
+/home/kali/Documents/ds2026/Very/Long/Directory/Structure/with/a/very_long_filename.cpp
+/etc/passwd
+/usr/share/doc/some/other/path/example.txt
